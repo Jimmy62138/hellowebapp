@@ -1,0 +1,13 @@
+*{
+ background-image: url("jenkins.jpg");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ 
+}
+
+h1{
+	color: red;
+	margin-left: 150px;
+	margin-top: 50px;
+}
