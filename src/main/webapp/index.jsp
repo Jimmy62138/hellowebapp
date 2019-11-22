@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<h1>Bienvenue sur The BeSt TeAM avec github !!!</h1>
+	<h1>Bienvenue sur The BeSt TeAM with github !!!</h1>
 	<div class="container">
 		<img src="jenkins.jpg">
 		</div>
