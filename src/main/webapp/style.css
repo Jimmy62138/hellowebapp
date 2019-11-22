@@ -3,8 +3,12 @@
 }
 
 h1{
-	color: red;
+	color: lightcoral;
 	margin-left: 150px;
 	margin-top: 50px;
+}
+
+img{
+	position: center;
 }
 
