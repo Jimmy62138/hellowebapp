@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<h1>Bienvenue sur The BeSt TeAM !!!</h1>
+	<h1>Bienvenue sur The BeSt TeAM avec github !!!</h1>
 	<div class="container">
 		<p>Le text vas arriver un jour InchallAh ;)</p>
 		</div>
