@@ -10,5 +10,7 @@ h1{
 
 img{
 	position: center;
+	margin-left: calc(50% - 300px);
+	margin-top: 50px;
 }
 
