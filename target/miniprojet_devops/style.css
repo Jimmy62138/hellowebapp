@@ -1,0 +1,10 @@
+*{
+ background-image: url("jenkins.jpg");
+ background-image: no-repeat;
+ background-image: cover;
+ 
+}
+
+h1{
+	color: red;
+}
