@@ -7,7 +7,7 @@
 <body>
 	<h1>Bienvenue sur The BeSt TeAM avec github !!!</h1>
 	<div class="container">
-		<p>Le text vas arriver un jour InchallAh ;)</p>
+		<img src="jenkins.jpg">
 		</div>
 
 </body>
