@@ -1,9 +1,5 @@
 *{
- background-image: url("jenkins.jpg");
- background-repeat: no-repeat;
- background-position: center;
- background-size: cover;
- 
+ background-color: blue;
 }
 
 h1{
@@ -11,3 +7,4 @@ h1{
 	margin-left: 150px;
 	margin-top: 50px;
 }
+
